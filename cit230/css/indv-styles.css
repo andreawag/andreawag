@@ -1,0 +1,16 @@
+h1{font-family: bembo book mt pro; color:#CCB3AA; text-align: center; font-size: 50px;}
+
+ol li {font-family: klint std; display: inline; color:#84746E; padding-right: 1.5em;}
+
+ol li a{text-decoration: none; color:#84746E;text-align: center;}
+a:hover{color: #FFDFD5;}
+
+.paint{margin: auto; display: block;}
+
+a{font-family: klint std; display:inline; color:#84746E; text-decoration: none;}
+
+main{font-family: bembo book mt pro; font-size: 20px; color:#84746E;}
+
+#Andrea-and-Jonah{margin:auto; display: block;}
+
+.copyright{font-family:bembo book mt pro; color:#ccb3AA; }
