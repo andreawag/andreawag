@@ -14,3 +14,38 @@ main{font-family: bembo book mt pro; font-size: 20px; color:#84746E;}
 #Andrea-and-Jonah{margin:auto; display: block;}
 
 .copyright{font-family:bembo book mt pro; color:#ccb3AA; }
+
+h2{text-align: center; color:#CCB3AA; }
+
+form{ 
+    color: #84746E;
+    font-size: 22px;
+}
+
+input{
+    width: 600px;
+    height:20px;
+    padding: 7px;
+    border: 1px;
+    border-style: solid;
+    border-color: #CCB3AA;
+}
+
+.shop-nav{
+    text-align: center;
+}
+
+.flex-cotainer{
+    display: flex;
+   justify-content:center;   
+}
+
+.flex-item{ 
+   margin: 15px;
+    justify-content: center;
+    
+}
+
+figcaption {font-size: 12px; text-align:left; color:#CCB3AA; 
+    
+}
