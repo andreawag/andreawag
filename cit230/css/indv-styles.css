@@ -13,7 +13,9 @@ main{font-family: bembo book mt pro; font-size: 20px; color:#84746E;}
 
 #Andrea-and-Jonah{margin:auto; display: block;}
 
-.copyright{font-family:bembo book mt pro; color:#ccb3AA; }
+.copyright{font-family:bembo book mt pro; color:#ccb3AA; text-align: center; }
+
+.contact{font-family:bembo book mt pro; color:#84746E; text-align: center;}
 
 h2{text-align: center; color:#CCB3AA; }
 
@@ -48,4 +50,9 @@ input{
 
 figcaption {font-size: 12px; text-align:left; color:#CCB3AA; 
     
+}
+
+.brush {
+    margin: auto;
+    padding-top: 30px;
 }
