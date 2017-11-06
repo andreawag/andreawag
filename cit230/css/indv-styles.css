@@ -2,20 +2,24 @@ h1{font-family: bembo book mt pro; color:#CCB3AA; text-align: center; font-size:
 
 ol li {font-family: klint std; display: inline; color:#84746E; padding-right: 1.5em;}
 
-ol li a{text-decoration: none; color:#84746E;text-align: center;}
+ol li a{text-decoration: none; color:#84746E;text-align: center; }
 a:hover{color: #FFDFD5;}
 
 .paint{margin: auto; display: block;}
 
 a{font-family: klint std; display:inline; color:#84746E; text-decoration: none;}
 
-main{font-family: bembo book mt pro; font-size: 20px; color:#84746E;}
+main{font-family: bembo book mt pro; font-size: 20px; color:#84746E;background-image: url(../../indv-website/images/brushes.jpg);}
+
+p {text-align: center; padding-left: 15%; padding-right: 15%;}
 
 #Andrea-and-Jonah{margin:auto; display: block;}
 
+#santa-monica {margin: auto; display: block;}
+
 .copyright{font-family:bembo book mt pro; color:#ccb3AA; text-align: center; }
 
-.contact{font-family:bembo book mt pro; color:#84746E; text-align: center;}
+.contact{font-family:bembo book mt pro; color:#84746E; text-align: center; display: block;}
 
 h2{text-align: center; color:#CCB3AA; }
 
@@ -54,5 +58,8 @@ figcaption {font-size: 12px; text-align:left; color:#CCB3AA;
 
 .brush {
     margin: auto;
+    display: block;
     padding-top: 30px;
+    padding-left: 25%;
+    padding-right: 25%;
 }
