@@ -9,7 +9,7 @@ a:hover{color: #FFDFD5;}
 
 a{font-family: klint std; display:inline; color:#84746E; text-decoration: none;}
 
-main{font-family: bembo book mt pro; font-size: 20px; color:#84746E;background-image: url(../../indv-website/images/brushes.jpg);}
+main{font-family: bembo book mt pro; font-size: 20px; color:#84746E;}
 
 p {text-align: center; padding-left: 15%; padding-right: 15%;}
 
@@ -62,4 +62,9 @@ figcaption {font-size: 12px; text-align:left; color:#CCB3AA;
     padding-top: 30px;
     padding-left: 25%;
     padding-right: 25%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }
